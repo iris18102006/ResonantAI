@@ -167,4 +167,14 @@ Supported by:
 - B2 Tech
 
 ---
+## LICENSE
+Copyright (c) 2026 Iris Gjoni 
 
+All Rights Reserved.
+
+Unauthorized copying, modification, distribution,
+public display, or commercial use of this software,
+via any medium, is strictly prohibited without the
+explicit prior written permission of the copyright holder.
+
+This project is proprietary and confidential.
